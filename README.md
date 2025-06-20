@@ -33,3 +33,5 @@ python main.py [аргументы]
 -w или --where 
 Пример: python main.py -f products.csv -w "price>200" -a "price=avg" 
 ```
+### Пример работы
+![Иллюстрация к проекту](https://github.com/PozdnyakovE/csv_file_parser/blob/master/csv_parser_results.jpg)
