@@ -30,7 +30,7 @@ python main.py [аргументы]
 ```
 Аргумент агрегации, указывается поле (числовое) и тип агрегации.
 ```
--w или --where 
+-a или --aggregate 
 Пример: python main.py -f products.csv -w "price>200" -a "price=avg" 
 ```
 ### Пример работы
