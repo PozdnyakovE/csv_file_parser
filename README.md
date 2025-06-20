@@ -13,7 +13,7 @@ python -m venv venv
 ```
 pip install -r requirements.txt
 ```
-### запустить файл main.py с необходимыми параметрами
+### Запустить файл main.py с необходимыми параметрами
 ```
 python main.py [аргументы]
 ```
